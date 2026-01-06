@@ -1,29 +1,40 @@
 {
     "Edital-FAPEMA-no-21_2025_pdf": {
-        "Edital_FAPEMA_nº_21_2025": {
-            "instituicao": "Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA) e Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI).",
+        "Edital FAPEMA nº 21/2025": {
+            "instituicao": "Governo do Estado do Maranhão, por intermédio da Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI) e da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA).",
             "titulo": "Edital FAPEMA nº 21/2025 - APOIO À PROJETO DE PESQUISA - UNIVERSAL.",
-            "ementa": "Edital que visa fomentar o desenvolvimento científico, tecnológico e de inovação no Maranhão, apoiando projetos de pesquisa em diversas áreas do conhecimento através da linha de ação 'Mais Ciência'.",
-            "objetivo": "Apoiar projetos de pesquisa científica, tecnológica e de inovação em todas as áreas do conhecimento, desenvolvidos em Instituições de Ensino Superior e/ou pesquisa, públicas ou privadas, sediadas no estado do Maranhão.",
-            "valor1": "O valor total destinado ao edital é de R$ 10.000.000,00 (dez milhões de reais).",
-            "valor2": "O valor máximo de financiamento por proposta varia conforme a faixa de classificação: até R$ 200.000,00 para Faixa A (Sênior), até R$ 120.000,00 para Faixa B (Doutor) e até R$ 80.000,00 para Faixa C (Mestre).",
-            "valor3": "No mínimo 10% dos recursos de cada Faixa serão reservados para candidatos de instituições sediadas fora da Grande Ilha de São Luís, dentro do estado do Maranhão.",
-            "prazo1": "O período de submissão online das propostas é de 15/12/2025 a 30/01/2026.",
-            "prazo2": "O prazo máximo de execução dos projetos financiados é de 24 (vinte e quatro) meses, contados a partir da assinatura do Termo de Outorga.",
-            "prazo3": "A divulgação do Resultado Final da Avaliação de Mérito está prevista para ocorrer a partir de 18/05/2026."
+            "ementa": "Chamada pública visando fomentar o desenvolvimento científico, tecnológico e de inovação, através da linha de ação “Mais Ciência”, apoiando projetos de pesquisa científica, tecnológica e de inovação em todas as áreas do conhecimento, desenvolvidos em Instituições de Ensino Superior e/ou pesquisa, públicas ou privadas, sediadas no estado do Maranhão. O edital destina-se a professores(as) pesquisadores(as) com vínculo efetivo com estas instituições.",
+            "objetivo": "Apoiar projetos de pesquisa científica, tecnológica e de inovação nas diversas áreas do conhecimento, desenvolvidos em Instituições de Ensino Superior e/ou pesquisa, públicas ou privadas, sediadas no estado do Maranhão.",
+            "valor1": "O valor total de recursos financeiros destinados a este Edital é de R$ 10.000.000,00 (dez milhões de reais), oriundos do Governo do Estado do Maranhão e definidos na programação financeira da FAPEMA (Unidade Orçamentária 24202, Ação 4168, Subação 11141, Fonte 101).",
+            "valor2": "O limite máximo de financiamento para a Faixa A (Sênior - Doutor(a) com vínculo em PPG) é de até R$ 200.000,00 (duzentos mil reais) por proposta, com recursos estimados de até R$ 5.000.000,00 (cinco milhões de reais) para a faixa.",
+            "valor3": "O limite máximo de financiamento para a Faixa B (Doutor(a)) é de até R$ 120.000,00 (cento e dez mil reais) por proposta, com recursos estimados de até R$ 3.000.000,00 (três milhões de reais) para a faixa.",
+            "valor4": "O limite máximo de financiamento para a Faixa C (Mestre(a)) é de até R$ 80.000,00 (noventa mil reais) por proposta, com recursos estimados de até R$ 2.000.000,00 (dois milhões de reais) para a faixa.",
+            "valor5": "Em cada Faixa (A, B e C), no mínimo, o percentual de 10% (dez por cento) dos recursos será reservado para candidatos oriundos de instituições públicas ou privadas de ensino superior e/ou pesquisa sediadas fora da Grande Ilha de São Luís (que compreende os municípios de Paço do Lumiar, Raposa, São José de Ribamar e São Luís), desde que haja demanda qualificada.",
+            "prazo1": "O período para submissão online das propostas é de 15/12/2025 a 30/01/2026.",
+            "prazo2": "O prazo de execução dos projetos de pesquisa científica será de até 24 (vinte e quatro) meses, contados a partir da assinatura do Termo de Outorga.",
+            "prazo3": "A divulgação do Resultado Parcial da Análise de Candidatura ocorrerá a partir de 02/03/2026, e o Resultado Final da Análise de Candidatura será divulgado a partir de 23/03/2026. A divulgação do Resultado Parcial da Avaliação de Mérito (projeto e currículo) será a partir de 27/04/2026, e o Resultado Final será a partir de 18/05/2026.",
+            "prazo4": "O período de recurso em relação a qualquer Resultado Parcial é de 05 (cinco) dias corridos após a sua divulgação no portal da FAPEMA.",
+            "prazo5": "Os candidatos aprovados deverão realizar a Entrega da documentação online em até 05 (cinco) dias úteis após a divulgação do Resultado Final do Julgamento. Caso haja pendência ou inadimplência na contratação, o coordenador terá até 10 (dez) dias úteis, a partir da publicação do resultado final, para regularização."
         }
     },
     "Edital_de_selecao_AGED_2025_FAPEMA_AGED_assinado__1__pdf": {
-        "EDITAL_01_2025_AGED_FAPEMA": {
-            "instituicao": "Agência Estadual de Defesa Agropecuária do Maranhão (AGED) em parceria com a Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA).",
-            "titulo": "Edital Nº 01/2025 AGED/FAPEMA de Seleção de Bolsistas para o Projeto Tecnologia e Inovação em Gestão Agropecuária (PTG).",
-            "ementa": "Processo seletivo para outorga de 8 vagas imediatas e 16 em cadastro reserva de bolsas para estudantes e profissionais formados nas áreas de Análise de Sistemas, Engenharia da Computação, Engenharia de Software, Ciência da Computação e afins, para atuação no Maranhão.",
-            "objetivo": "Fomentar a informatização da agricultura e pecuária maranhense, desenvolvendo competências técnicas para a inovação e evolução do Sistema de Gestão Agropecuária do Maranhão (SIGAMA) e de seus sistemas auxiliares na AGED.",
-            "valor1": "O recurso financeiro total destinado ao edital é de R$ 552.000,00, proveniente do Acordo de Cooperação Técnica AGED/FAPEMA n° 23/2025.",
-            "valor2": "O valor mensal das bolsas varia entre R$ 2.000,00 para estudantes e R$ 3.000,00 para profissionais formados.",
-            "prazo1": "As inscrições são gratuitas e devem ser submetidas online no período de 14 de novembro de 2025 até as 23h59min do dia 23 de novembro de 2025.",
-            "prazo2": "A vigência inicial das bolsas é de 12 meses, passível de prorrogação mediante disponibilidade orçamentária e vigência do Acordo de Cooperação.",
-            "prazo3": "O início previsto das atividades para os bolsistas selecionados é 08 de dezembro de 2025."
+        "EDITAL_Nº_01_2025_AGED_FAPEMA": {
+            "instituicao": "O Governo do Estado do Maranhão, por intermédio da Agência Estadual de Defesa Agropecuária do Maranhão (AGED), em parceria com a Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA), sendo a AGED a Instituição de Execução e a FAPEMA a Unidade Orçamentária 24202, conforme o Acordo de Cooperação Técnica Nº 23/2025 AGED/FAPEMA.",
+            "titulo": "EDITAL Nº 01/2025 AGED/FAPEMA - SELEÇÃO DE BOLSISTAS PARA O PROJETO TECNOLOGIA E INOVAÇÃO EM GESTÃO AGROPECUÁRIA (PTG).",
+            "ementa": "Edital destinado à seleção de estudantes e profissionais graduados em áreas de Tecnologia da Informação para a concessão de bolsas, visando fomentar a informatização da agricultura e pecuária maranhense. Os bolsistas atuarão no Projeto Tecnologia e Inovação em Gestão Agropecuária (PTG), buscando capacitação profissional e o desenvolvimento de competências e habilidades necessárias para a atuação no ambiente de trabalho da AGED. O público-alvo inclui candidatos com formação em Análise de Sistemas, Engenharia da Computação, Engenharia de Software, Ciência da Computação e áreas afins.",
+            "objetivo": "Desenvolver competências e habilidades nos profissionais selecionados, por meio da inovação e evolução do Sistema de Gestão Agropecuária do Maranhão (SIGAMA) e de seus sistemas auxiliares, abrangendo automação, integração, deploy, análise de dados, redes, infraestrutura, manutenção de equipamentos e atendimento a usuários. O projeto visa a automatização de processos, maior transparência, melhoria no atendimento aos produtores e servidores, e aumento da eficiência administrativa da AGED.",
+            "valor1": "O valor total de recursos financeiros destinados a este Edital é de R$ 552.000,00 (quinhentos e cinquenta e dois mil reais), provenientes do Acordo de Cooperação Técnica AGED/FAPEMA n° 23/2025.",
+            "valor2": "A alocação orçamentária para o Exercício 2025 é de R$ 92.000,00 (noventa e dois mil reais) e para o Exercício 2026 é de R$ 460.000,00 (quatrocentos e sessenta mil reais), totalizando R$ 552.000,00.",
+            "valor3": "A bolsa na modalidade PTG I, destinada a profissionais formados, tem o valor mensal de R$ 3.000,00 (três mil reais), com 5 vagas imediatas e 10 vagas para cadastro reserva.",
+            "valor4": "A bolsa na modalidade PTG II, destinada a profissionais formados, tem o valor mensal de R$ 2.500,00 (dois mil e quinhentos reais), com 1 vaga imediata e 2 vagas para cadastro reserva.",
+            "valor5": "A bolsa na modalidade PTG III, destinada a estudantes em formação, tem o valor mensal de R$ 2.000,00 (dois mil reais), com 2 vagas imediatas e 4 vagas para cadastro reserva.",
+            "prazo1": "O período de inscrições gratuitas estará aberto de 14 de novembro de 2025 até às 23h59min do dia 23 de novembro de 2025, devendo a submissão ser realizada online via plataforma Patronage (https://patronage.fapema.br/).",
+            "prazo2": "A Divulgação do Resultado Parcial está prevista para 28 de novembro de 2025, sendo publicada nos sites da AGED (https://aged.ma.gov.br/) e FAPEMA (https://www.fapema.br/editais/).",
+            "prazo3": "O Prazo de Recurso referente às decisões sobre o resultado parcial ou lista de inscritos é de 02 (dois) dias corridos a contar da divulgação, sendo que o cronograma indica as datas de 29 a 30 de agosto de 2025 (data que contrasta com o fluxo de novembro).",
+            "prazo4": "A Divulgação do Resultado Final da Seleção ocorrerá a partir de 01 de dezembro de 2025.",
+            "prazo5": "O Início das Atividades está previsto para 08 de dezembro de 2025.",
+            "prazo6": "A vigência das bolsas é de 12 (doze) meses, podendo haver prorrogação compatível com a vigência e disponibilidade orçamentária do Acordo de Cooperação.",
+            "prazo7": "Os candidatos em situação de inadimplência com a FAPEMA que forem aprovados terão o prazo de até 2 (dois) dias corridos, a partir da publicação do resultado final, para regularizarem suas pendências."
         }
     }
 }
