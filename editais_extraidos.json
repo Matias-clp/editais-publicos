@@ -1,1 +1,68 @@
-{}
+{
+    "Edital-FAPEMA-no-21_2025_pdf": {
+        "instituicao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão), em conjunto com a SECTI e o Governo do Estado do Maranhão.",
+        "titulo": "Edital FAPEMA nº 21/2025 - APOIO À PROJETO DE PESQUISA - UNIVERSAL",
+        "ementa": "Edital que visa fomentar o desenvolvimento científico, tecnológico e de inovação (linha de ação “Mais Ciência”) no estado do Maranhão, através do apoio a projetos de pesquisa em diversas áreas do conhecimento. Destinado a professores(as) pesquisadores(as) com vínculo efetivo em Instituições de Ensino Superior e/ou pesquisa sediadas no Maranhão. Os projetos serão classificados nas faixas A, B e C, conforme a titulação e produção do proponente.",
+        "objetivo": "Apoiar projetos de pesquisa científica, tecnológica e de inovação nas diversas áreas do conhecimento, desenvolvidos em Instituições de Ensino Superior e/ou pesquisa, públicas ou privadas, sediadas no estado do Maranhão.",
+        "valores": {
+            "total_geral": "R$ 10.000.000,00 (dez milhões de reais)",
+            "faixa_A_max_projeto": "R$ 200.000,00 (duzentos mil reais)",
+            "faixa_A_recursos_estimados": "R$ 5.000.000,00 (cinco milhões de reais)",
+            "faixa_B_max_projeto": "R$ 120.000,00 (cento e vinte mil reais)",
+            "faixa_B_recursos_estimados": "R$ 3.000.000,00 (três milhões de reais)",
+            "faixa_C_max_projeto": "R$ 80.000,00 (oitenta mil reais)",
+            "faixa_C_recursos_estimados": "R$ 2.000.000,00 (dois milhões de reais)",
+            "reserva_regional": "Mínimo de 10% dos recursos nas FAIXAS A, B e C reservados para candidatos de instituições sediadas fora da Grande Ilha de São Luís."
+        },
+        "prazos": {
+            "vigencia_projeto_max": "24 meses",
+            "submissao_online": "15/12/2025 a 30/01/2026",
+            "resultado_parcial_candidatura": "A partir de 02/03/2026",
+            "resultado_final_candidatura": "A partir de 23/03/2026",
+            "resultado_parcial_merito": "A partir de 27/04/2026",
+            "resultado_final_merito": "A partir de 18/05/2026",
+            "entrega_documentacao_aprovados": "05 dias úteis após a divulgação do Resultado Final do Julgamento"
+        }
+    },
+    "Edital_de_selecao_AGED_2025_FAPEMA_AGED_assinado__1__pdf": {
+        "instituicao": "Agência Estadual de Defesa Agropecuária do Maranhão (AGED) em parceria com a Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA)",
+        "titulo": "EDITAL Nº 01/2025 AGED/FAPEMA – Seleção de Bolsistas para o Projeto Tecnologia e Inovação em Gestão Agropecuária (PTG)",
+        "ementa": "Seleção de bolsistas (estudantes e profissionais graduados) para atuar no Projeto Tecnologia e Inovação em Gestão Agropecuária (PTG) da AGED, nas áreas de Análise de Sistemas, Engenharia da Computação, Engenharia de Software, Ciência da Computação e áreas afins. O objetivo é fomentar a informatização da agricultura e pecuária maranhense.",
+        "objetivo": "Desenvolver competências e habilidades em profissionais de TI para a inovação e evolução do Sistema de Gestão Agropecuária do Maranhão (SIGAMA) e sistemas auxiliares. Os objetivos específicos incluem apoiar o desenvolvimento de atuações estratégicas, melhorar a qualidade do serviço público, aumentar a eficiência da gestão e implementar ferramentas que facilitem a fiscalização (como relatórios e dashboards).",
+        "valores": {
+            "total_de_recursos": "R$ 552.000,00",
+            "vagas_imediatas": 8,
+            "cadastro_reserva": 16,
+            "modalidades_bolsa": [
+                {
+                    "nome": "PTG I (Formados)",
+                    "valor_mensal": "R$ 3.000,00",
+                    "vagas": 5,
+                    "carga_horaria": "40 horas semanais",
+                    "vigencia": "12 meses"
+                },
+                {
+                    "nome": "PTG II (Formados)",
+                    "valor_mensal": "R$ 2.500,00",
+                    "vagas": 1,
+                    "carga_horaria": "40 horas semanais",
+                    "vigencia": "12 meses"
+                },
+                {
+                    "nome": "PTG III (Estudantes)",
+                    "valor_mensal": "R$ 2.000,00",
+                    "vagas": 2,
+                    "carga_horaria": "30 horas semanais",
+                    "vigencia": "12 meses"
+                }
+            ]
+        },
+        "prazos": {
+            "inscricoes_online": "14 de novembro de 2025 a 23 de novembro de 2025",
+            "divulgacao_resultado_parcial": "28 de novembro de 2025",
+            "prazo_de_recurso": "29 a 30 de agosto de 2025 (Nota: Conflito de mês no edital)",
+            "divulgacao_resultado_final": "A partir de 01 de dezembro de 2025",
+            "inicio_das_atividades_previsto": "08 de dezembro de 2025"
+        }
+    }
+}
