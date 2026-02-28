@@ -1,91 +1,413 @@
 {
     "edital1": {
-        "instituicao": "Governo do Estado do Maranhão, por intermédio da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA), em conjunto com a Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI).",
-        "titulo": "Edital FAPEMA nº 04/2026 - Programa de Apoio a Ambientes Promotores de Inovação (PROAPI-MA).",
-        "ementa": "Chamada pública integrada à linha de ação Mais Inovação para a seleção de propostas que visem a concessão de auxílio financeiro não reembolsável a ambientes promotores de inovação e empreendedorismo localizados no Maranhão. O edital contempla duas categorias de maturidade: a Faixa A, voltada para a consolidação de ambientes que operam há mais de vinte e quatro meses, e a Faixa B, destinada à implantação e estruturação de novos ambientes ou aqueles com menos de vinte e quatro meses de atividade. O público-alvo inclui instituições de ensino públicas ou privadas sem fins lucrativos e empresas sediadas no estado que operem ou desejem implementar estruturas como incubadoras, aceleradoras, parques tecnológicos, hubs de inovação e makerspaces.",
-        "objetivo": "O objetivo central é fortalecer o ecossistema maranhense de ciência, tecnologia e inovação, ampliando a competitividade regional por meio do apoio financeiro. Busca-se ainda elevar a qualidade da gestão desses espaços, incentivando a obtenção da certificação no modelo de maturidade CERNE e a filiação à Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores (ANPROTEC).",
-        "valor1": "O montante total de recursos financeiros alocados para este edital é de R$ 2.000.000,00 oriundos do Tesouro Estadual, sendo distribuídos equitativamente com R$ 1.000.000,00 para a Faixa A e R$ 1.000.000,00 para a Faixa B.",
-        "valor2": "Cada proposta selecionada poderá receber o valor máximo de até R$ 100.000,00, garantindo o atendimento de no mínimo dez propostas em cada uma das duas faixas de maturidade estabelecidas.",
-        "valor3": "As instituições ou empresas beneficiárias devem obrigatoriamente aportar uma contrapartida financeira mínima de 5% sobre o valor do orçamento aprovado, que pode ser aplicada em desembolsos financeiros diretos ou em bens e serviços relacionados ao projeto.",
-        "valor4": "O apoio financeiro é concedido sob a modalidade de Subvenção Econômica, o que caracteriza a transferência de recursos públicos não reembolsáveis destinados ao compartilhamento de riscos tecnológicos e à expansão de empreendimentos inovadores.",
-        "prazo1": "As propostas devem ser submetidas eletronicamente por meio da plataforma Patronage da FAPEMA até as 12h00, horário de Brasília, do dia 19 de março de 2026.",
-        "prazo2": "O cronograma define que a divulgação do resultado parcial da análise de candidatura ocorrerá a partir de 02 de abril de 2026, enquanto o resultado final das análises de mérito está previsto para ser publicado a partir de 20 de maio de 2026.",
-        "prazo3": "Os projetos aprovados terão um prazo de execução de até doze meses, contados a partir da data de assinatura do respectivo Termo de Outorga de Subvenção Econômica.",
-        "prazo4": "A prestação de contas técnica e financeira final deverá ser apresentada pelo outorgado em até trinta dias após o encerramento da vigência do projeto, seguindo as normas do Manual de Prestação de Contas da FAPEMA."
+        "orgao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão)",
+        "numero_edital": "04/2026",
+        "programa": "PROGRAMA DE APOIO A AMBIENTES PROMOTORES DE INOVAÇÃO - PROAPI-MA",
+        "objetivo": "Fortalecer o ecossistema estadual de CT&I e ampliar a competitividade através da seleção de propostas para concessão de recursos financeiros não reembolsáveis destinados a ambientes promotores de inovação (incubadoras, aceleradoras, parques tecnológicos, hubs, etc) no Maranhão.",
+        "prazo_execucao_projeto": "Até 12 meses",
+        "vigencia_edital": "Exercício 2026"
     },
     "edital2": {
-        "instituicao": "Governo do Estado do Maranhão por meio da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA), vinculada à Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI).",
-        "titulo": "Edital FAPEMA nº 03/2026 - Programa Deep Tech Catalyst.",
-        "ementa": "Programa amparado pela linha de ação Mais Inovação que visa apoiar, mobilizar, acelerar e financiar a criação de Deep Techs no estado do Maranhão, promovendo a conversão do potencial acadêmico científico em negócios de base tecnológica para o desenvolvimento de soluções de alto impacto econômico e social, com foco em tecnologias situadas entre os níveis de maturidade TRL 3 e TRL 6.",
-        "objetivo": "Implementar um programa de inovação progressivo para converter a produção científica acadêmica em soluções disruptivas, despertando o mindset empreendedor em pesquisadores através da metodologia Lean Canvas, apoiando planos de inovação, provendo suporte financeiro para Provas de Conceito e protótipos, incentivando a proteção de propriedade intelectual e facilitando o acesso a investidores e ao mercado nacional e internacional.",
-        "valor1": "O recurso total destinado ao edital é de R$ 4.550.000,00 oriundos do Tesouro Estadual, divididos em parcelas de subvenção econômica para os anos de 2026 e 2027, além de verbas para depósito de patentes e bolsas.",
-        "valor2": "O valor máximo de auxílio por proposta de inovação é de R$ 200.000,00, totalizando R$ 3.000.000,00 distribuídos entre as áreas de Agricultura Digital, Biotecnologia, Bioeconomia, Energias Renováveis, Sustentabilidade, Saúde e Tecnologias Sociais.",
-        "valor3": "É previsto o valor de até R$ 70.000,00 por projeto para concessão de bolsas de apoio técnico à inovação para a equipe técnica, com valores mensais de R$ 4.000,00 para doutores, R$ 3.000,00 para mestres e R$ 2.200,00 para graduados.",
-        "valor4": "Será destinado o valor de até R$ 33.333,00 para cada empresa beneficiada com a finalidade exclusiva de custear registros de ativos de propriedade intelectual resultantes do projeto.",
-        "valor5": "As empresas proponentes devem obrigatoriamente aportar uma contrapartida financeira mínima de 5% sobre o valor total do projeto de inovação aprovado.",
-        "prazo1": "O prazo limite para a submissão online das propostas por meio da plataforma Patronage é até o dia 16 de abril de 2026 às 12 horas, seguindo o horário de Brasília.",
-        "prazo2": "A divulgação do resultado final da etapa de análise de candidatura está prevista para ocorrer a partir do dia 14 de maio de 2026.",
-        "prazo3": "O resultado final das análises de mérito e a classificação dos projetos aprovados serão publicados a partir do dia 18 de junho de 2026.",
-        "prazo4": "A vigência total do auxílio financeiro para o desenvolvimento dos projetos é de até 22 meses contados a partir da data de assinatura do Termo de Outorga.",
-        "prazo5": "O período de concessão das bolsas para a equipe técnica possui vigência máxima de 6 meses durante a fase inicial de desenvolvimento tecnológico.",
-        "prazo6": "A prestação de contas técnica e financeira final deve ser encaminhada em até 60 dias após o término da vigência estabelecida no Termo de Outorga."
+        "orgao": "FAPEMA",
+        "edital_numero": "04/2026",
+        "programa": "Programa de Apoio a Ambientes Promotores de Inovação - PROAPI-MA",
+        "unidade_orcamentaria": "24202 - FAPEMA",
+        "modalidade": "Subvenção Econômica"
     },
     "edital3": {
-        "instituicao": "Governo do Estado do Maranhão e Secretaria de Estado da Ciência, Tecnologia e Inovação, sob responsabilidade da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão.",
-        "titulo": "Edital FAPEMA número zero dois de dois mil e vinte e seis referente ao Apoio à Participação em Eventos Científicos, Tecnológicos e ou de Inovação.",
-        "ementa": "O documento estabelece as normas para a concessão de auxílio financeiro destinado a pesquisadores vinculados a instituições de ensino e pesquisa sediadas no Maranhão para a participação presencial em eventos de curta duração fora do estado ou no exterior, contemplando congressos, seminários, simpósios e competições técnico-científicas como campeonatos de robótica.",
-        "objetivo": "O objetivo central é apoiar financeiramente pesquisadores maranhenses na difusão e popularização da ciência, tecnologia e inovação por meio da apresentação de trabalhos científicos e participação em competições em território nacional ou internacional.",
-        "valor1": "O recurso total alocado para este edital é de duzentos mil reais provenientes do Tesouro Estadual, divididos em três chamadas públicas com orçamentos de sessenta mil reais para a primeira e setenta mil reais para cada uma das demais chamadas.",
-        "valor2": "O auxílio financeiro individual é limitado ao valor máximo de dois mil e quinhentos reais para eventos de classificação nacional ou regional realizados fora do estado e de cinco mil reais para eventos internacionais realizados fora do país.",
-        "valor3": "Fica garantido um percentual mínimo de vinte por cento do valor total de cada chamada para proponentes vinculados a instituições situadas no interior do estado do Maranhão, desde que classificados no processo de seleção.",
-        "prazo1": "Para a primeira chamada referente a eventos ocorridos entre maio e junho de dois mil e vinte e seis, o período de submissão das propostas ocorre de vinte e três de fevereiro até doze de março de dois mil e vinte e seis.",
-        "prazo2": "A segunda chamada contempla eventos entre julho e setembro de dois mil e vinte e seis, com prazo de inscrição definido entre os dias dezesseis de março e nove de abril de dois mil e vinte e seis.",
-        "prazo3": "A terceira chamada atende eventos realizados de outubro a dezembro de dois mil e vinte e seis, possuindo período de submissão de onze de maio até quinze de junho de dois mil e vinte e seis.",
-        "prazo4": "Os proponentes recomendados e classificados devem enviar a documentação necessária para a implementação do auxílio em até cinco dias úteis após a divulgação do resultado final de cada etapa.",
-        "prazo5": "O beneficiário deve apresentar a prestação de contas técnica e financeira obrigatoriamente em até trinta dias após o término da vigência do auxílio estabelecida no Termo de Outorga."
+        "orgao": "Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA)",
+        "vinculacao": "Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI)",
+        "numero_edital": "03/2026",
+        "programa": "DEEP TECH CATALYST",
+        "linha_de_acao": "Mais Inovação"
     },
     "edital4": {
-        "instituicao": "O edital é promovido pelo Governo do Estado do Maranhão, por meio da Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI) e da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA), integrando a linha de ação intitulada Mais Ciência.",
-        "titulo": "Edital FAPEMA nº 21/2025 - APOIO À PROJETO DE PESQUISA - UNIVERSAL",
-        "ementa": "Chamada pública voltada ao fomento de projetos de pesquisa científica, tecnológica e de inovação em todas as áreas do conhecimento. O apoio é destinado a professores e pesquisadores com vínculo efetivo em Instituições de Ensino Superior ou pesquisa, sejam públicas ou privadas, localizadas no estado do Maranhão, visando o fortalecimento da produção acadêmica e científica regional.",
-        "objetivo": "O objetivo principal é apoiar o desenvolvimento de projetos de pesquisa científica, tecnológica e de inovação em diversas áreas do conhecimento dentro do estado do Maranhão.",
-        "valor1": "O recurso total alocado para este edital é de R$ 10.000.000,00 (dez milhões de reais), provenientes do Tesouro Estadual e distribuídos conforme a programação financeira da FAPEMA.",
-        "valor2": "Para a Faixa A (Sênior), voltada a doutores com vínculo em programas de pós-graduação e critérios específicos de orientação, o valor máximo por proposta é de R$ 200.000,00, com um teto de R$ 5.000.000,00 reservados para esta categoria.",
-        "valor3": "Na Faixa B (Doutor), destinada a pesquisadores com título de doutorado, o financiamento por projeto pode chegar a R$ 120.000,00, totalizando até R$ 3.000.000,00 em recursos para a faixa.",
-        "valor4": "A Faixa C (Mestre), para proponentes com titulação mínima de mestre, permite solicitações de até R$ 80.000,00 por projeto, com reserva global de R$ 2.000.000,00 para este grupo.",
-        "valor5": "Fica assegurado o percentual mínimo de 10% dos recursos totais de cada faixa para proponentes de instituições situadas fora da Grande Ilha de São Luís, que compreende os municípios de São Luís, São José de Ribamar, Paço do Lumiar e Raposa.",
-        "prazo1": "O período estabelecido para a submissão eletrônica das propostas através da plataforma Patronage inicia em 15 de dezembro de 2025 e encerra em 30 de janeiro de 2026.",
-        "prazo2": "Os projetos aprovados terão um prazo máximo de execução de até 24 meses, cujo período começa a ser contado a partir da data de assinatura do Termo de Outorga.",
-        "prazo3": "A divulgação do resultado parcial da análise de candidatura está prevista para ocorrer a partir de 02 de março de 2026, com o resultado final desta etapa previsto para 23 de março de 2026.",
-        "prazo4": "O resultado final da avaliação de mérito, englobando a análise do projeto e do currículo, será publicado a partir do dia 18 de maio de 2026.",
-        "prazo5": "Caberá a interposição de recursos administrativos fundamentados no prazo de 05 dias corridos após a divulgação de cada resultado parcial publicado pela fundação.",
-        "prazo6": "Os pesquisadores classificados deverão realizar a entrega da documentação complementar de forma online em até 05 dias úteis após a publicação do resultado final do julgamento."
+        "edital": "03/2026",
+        "programa": "PROGRAMA DEEP TECH CATALYST",
+        "instituicao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão)",
+        "vinculacao": "SECTI (Secretaria de Estado da Ciência, Tecnologia e Inovação)",
+        "estado": "Maranhão"
     },
     "edital5": {
-        "instituicao": "O certame é promovido pelo Governo do Estado do Maranhão e pela Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI), por intermédio da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA), através da linha de ação voltada à Popularização da Ciência.",
-        "titulo": "Edital FAPEMA número zero um de dois mil e vinte e seis relativo ao Apoio à Realização de Eventos Científicos, Tecnológicos e ou de Inovação.",
-        "ementa": "Este edital estabelece as diretrizes para o apoio financeiro à organização de eventos de natureza científica, tecnológica e de inovação realizados no estado do Maranhão, abrangendo formatos como congressos, seminários, simpósios, colóquios, encontros, fóruns e jornadas. O apoio contempla eventos presenciais ou virtuais de abrangência internacional, nacional, estadual ou local, sendo direcionado a pesquisadores vinculados a instituições de ensino médio, técnico, superior ou de pesquisa, sejam elas públicas ou privadas, situadas no território maranhense.",
-        "objetivo": "O objetivo primordial é difundir o conhecimento científico e popularizar a ciência através do suporte financeiro a eventos que reúnam profissionais, estudantes e pesquisadores, visando gerar soluções para problemas aplicáveis ao contexto do estado do Maranhão e mantendo alinhamento preferencial com o Plano Estratégico Maranhão 2050.",
-        "valor1": "O valor total global destinado a este edital é de quinhentos mil reais oriundos do tesouro estadual e definidos na programação financeira da FAPEMA sob a modalidade de auxílio.",
-        "valor2": "Para eventos de abrangência internacional, o limite máximo de financiamento por proposta é de trinta mil reais para o formato presencial e vinte mil reais para o formato virtual, enquanto eventos nacionais podem receber até vinte mil reais presenciais ou quinze mil reais virtuais.",
-        "valor3": "Eventos de nível estadual possuem teto de oito mil reais na modalidade presencial e seis mil reais na virtual, ao passo que eventos locais podem solicitar até quatro mil reais para execução presencial e três mil reais para execução virtual.",
-        "valor4": "Fica assegurada a reserva de um percentual mínimo de vinte por cento do montante total de recursos para propostas submetidas por pesquisadores de instituições sediadas no interior do estado do Maranhão, desde que devidamente classificados.",
-        "prazo1": "As atividades de apoio previstas neste edital são destinadas exclusivamente a eventos que venham a ser realizados no período compreendido entre o mês de julho de dois mil e vinte e seis e o mês de junho de dois mil e vinte e sete.",
-        "prazo2": "A submissão das propostas deve ocorrer exclusivamente por via eletrônica até às doze horas do dia limite estipulado no cronograma oficial, seguindo rigorosamente o horário de Brasília.",
-        "prazo3": "O prazo para a interposição de recursos fundamentados contra as decisões das etapas de seleção é de dois dias úteis, contados a partir da divulgação dos resultados parciais, com encerramento às doze horas do último dia do prazo.",
-        "prazo4": "A prestação de contas final, abrangendo os aspectos técnicos e financeiros, deve ser encaminhada pelo coordenador em até trinta dias após o encerramento da vigência do auxílio conforme estabelecido no Termo de Outorga."
+        "numero": "02/2026",
+        "instituicao": "FAPEMA",
+        "titulo": "Apoio à Participação em Eventos Científicos, Tecnológicos e/ou de Inovação",
+        "objetivo": "Apoiar financeiramente a participação de pesquisadores(as) do Maranhão em eventos científicos, tecnológicos e de inovação (incluindo campeonatos de robótica) nacionais e internacionais, visando a popularização e difusão da CT&I maranhense.",
+        "publico_alvo": "Pesquisadores vinculados a instituições de ensino (médio, técnico, superior) ou pesquisa, públicas ou privadas, sediadas no Maranhão.",
+        "recursos_financeiros": {
+            "total_global": 200000.0,
+            "cota_interior": "Mínimo de 20% do valor de cada chamada",
+            "valores_maximos_proposta": {
+                "nacional_regional": 2500.0,
+                "internacional": 5000.0
+            }
+        },
+        "cronograma_chamadas": [
+            {
+                "chamada": "1ª Chamada",
+                "orcamento": 60000.0,
+                "periodo_evento": "05/2026 a 06/2026",
+                "submissao": "23/02/2026 a 12/03/2026",
+                "resultado_final": "A partir de 14/04/2026"
+            },
+            {
+                "chamada": "2ª Chamada",
+                "orcamento": 70000.0,
+                "periodo_evento": "07/2026 a 09/2026",
+                "submissao": "16/03/2026 a 09/04/2026",
+                "resultado_final": "A partir de 08/06/2026"
+            },
+            {
+                "chamada": "3ª Chamada",
+                "orcamento": 70000.0,
+                "periodo_evento": "10/2026 a 12/2026",
+                "submissao": "11/05/2026 a 15/06/2026",
+                "resultado_final": "A partir de 17/08/2026"
+            }
+        ],
+        "itens_financiaveis": [
+            "Passagens (ônibus, marítimas e/ou aéreas)",
+            "Taxa de inscrição no evento",
+            "Seguro viagem individual (obrigatório para exterior)",
+            "Diárias (máximo 10 dias/mês, conforme tabela FAPEMA)"
+        ],
+        "requisitos_elegibilidade_proponente": {
+            "vinculo": "Empregatício/funcional ativo ou matrícula regular em instituição habilitada no Maranhão",
+            "trabalho": "Possuir trabalho aprovado ou estar credenciado para competição",
+            "situacao_fapema": "Estar adimplente com a fundação",
+            "cadastros": "Plataforma Patronage e Lattes atualizados nos últimos 6 meses",
+            "restricoes": "Limite de uma submissão por chamada; auxílio individual e intransferível"
+        },
+        "formato_proposta": {
+            "limite_paginas": 6,
+            "formato_arquivo": "PDF",
+            "itens_obrigatorios": [
+                "Título do evento/trabalho",
+                "Resumo e palavras-chave",
+                "Link do evento",
+                "Dados do proponente/equipe",
+                "Modalidade de apresentação",
+                "Relevância para o Maranhão",
+                "Alinhamento com ODS e Plano Maranhão 2050"
+            ]
+        },
+        "criterios_avaliacao": [
+            {
+                "item": "Relevância, Abrangência e Temática do Evento",
+                "peso": 3
+            },
+            {
+                "item": "Relevância do trabalho para o desenvolvimento técnico-científico do Maranhão",
+                "peso": 4
+            },
+            {
+                "item": "Adequação Orçamentária",
+                "peso": 3
+            }
+        ],
+        "pontuacao_minima_aprovacao": 6.0,
+        "recursos_administrativos": {
+            "prazo": "02 dias úteis após divulgação de resultados parciais",
+            "canal": "Exclusivamente via plataforma Patronage"
+        },
+        "prestacao_contas": {
+            "prazo": "Até 30 dias após o término da vigência",
+            "documentos_necessarios": [
+                "Relatório técnico",
+                "Até 5 fotografias digitais",
+                "Comprovantes fiscais (NF-e, cupom fiscal, invoice)",
+                "Extrato bancário e comprovantes de movimentação eletrônica"
+            ]
+        }
     },
     "edital6": {
-        "instituicao": "O certame é realizado pelo Governo do Estado do Maranhão através da Agência Estadual de Defesa Agropecuária do Maranhão (AGED), contando com a parceria técnica e financeira da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA) via Acordo de Cooperação Técnica número 23/2025.",
-        "titulo": "Edital número 01/2025 AGED/FAPEMA para Seleção de Bolsistas para o Projeto Tecnologia e Inovação em Gestão Agropecuária (PTG).",
-        "ementa": "Este edital estabelece as diretrizes para a seleção de profissionais graduados e estudantes de graduação nas áreas de Análise de Sistemas, Engenharia da Computação, Engenharia de Software e Ciência da Computação para atuarem como bolsistas. O foco do programa é o desenvolvimento e a manutenção do Sistema de Gestão Agropecuária do Maranhão (SIGAMA) e a informatização do setor agropecuário estadual.",
-        "objetivo": "O objetivo central é fomentar a inovação tecnológica e a eficiência administrativa na gestão agropecuária do Maranhão, capacitando profissionais para atuar na automação de processos, segurança da informação, análise de dados e suporte técnico dentro do ambiente de trabalho da AGED.",
-        "valor1": "O recurso financeiro global investido no edital totaliza quinhentos e cinquenta e dois mil reais, sendo noventa e dois mil reais destinados ao exercício de 2025 e quatrocentos e sessenta mil reais para o exercício de 2026.",
-        "valor2": "As bolsas mensais são divididas em três categorias: PTG I para profissionais formados com valor de três mil reais, PTG II para profissionais formados com valor de dois mil e quinhentos reais e PTG III para estudantes em formação com valor de dois mil reais.",
-        "valor3": "A carga horária exigida para bolsistas profissionais graduados é de quarenta horas semanais, enquanto para bolsistas na categoria de estudantes a exigência é de trinta horas semanais, ambas em regime prioritariamente presencial.",
-        "prazo1": "O período para a realização das inscrições online pela plataforma Patronage inicia no dia 14 de novembro de 2025 e encerra-se às 23h59min do dia 23 de novembro de 2025.",
-        "prazo2": "A publicação do resultado parcial com a homologação das inscrições e notas preliminares ocorrerá no dia 28 de novembro de 2025, seguida por um prazo de recurso nos dias 29 e 30 de novembro de 2025.",
-        "prazo3": "O resultado final da seleção será divulgado a partir do dia 01 de dezembro de 2025, com o início das atividades previsto para o dia 08 de dezembro de 2025.",
-        "prazo4": "As bolsas concedidas terão vigência inicial de doze meses, podendo ser prorrogadas conforme a necessidade do projeto e a existência de disponibilidade orçamentária no Acordo de Cooperação Técnica."
+        "numero": "02/2026",
+        "instituicao": "FAPEMA - Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão",
+        "titulo": "Apoio à Participação em Eventos Científicos, Tecnológicos e/ou de Inovação",
+        "objetivo": "Apoiar financeiramente a participação de pesquisadores(as) do Maranhão em eventos científicos, tecnológicos e/ou de inovação (presenciais e de curta duração) realizados em território nacional ou internacional.",
+        "publico_alvo": "Pesquisadores vinculados a instituições de ensino (médio, técnico, tecnológico, superior) ou de pesquisa, públicas ou privadas, sediadas no Maranhão.",
+        "recursos_financeiros_totais": 200000.0,
+        "valor_maximo_por_proposta": {
+            "nacional_ou_regional_fora_do_estado": 2500.0,
+            "internacional": 5000.0
+        },
+        "cotas": "Mínimo de 20% do valor de cada chamada para proponentes de instituições sediadas no interior do Maranhão.",
+        "itens_financiaveis": [
+            "Passagens (ônibus, marítimas e/ou aéreas)",
+            "Taxa de inscrição no evento",
+            "Seguro viagem individual (obrigatório para eventos no exterior)",
+            "Diárias (hospedagem e alimentação, limite de 10 dias/mês)"
+        ],
+        "cronograma_chamadas": [
+            {
+                "chamada": "1ª Chamada",
+                "orcamento": 60000.0,
+                "periodo_do_evento": "05/2026 a 06/2026",
+                "periodo_submissao": "23/02/2026 a 12/03/2026",
+                "resultado_final": "A partir de 14/04/2026"
+            },
+            {
+                "chamada": "2ª Chamada",
+                "orcamento": 70000.0,
+                "periodo_do_evento": "07/2026 a 09/2026",
+                "periodo_submissao": "16/03/2026 a 09/04/2026",
+                "resultado_final": "A partir de 08/06/2026"
+            },
+            {
+                "chamada": "3ª Chamada",
+                "orcamento": 70000.0,
+                "periodo_do_evento": "10/2026 a 12/2026",
+                "periodo_submissao": "11/05/2026 a 15/06/2026",
+                "resultado_final": "A partir de 17/08/2026"
+            }
+        ],
+        "requisitos_proponente": [
+            "Vínculo empregatício/funcional ativo ou matrícula regular em instituição habilitada no Maranhão",
+            "Não estar aposentado ou em licença/afastamento impeditivo",
+            "Possuir trabalho aprovado para apresentação ou credenciamento para competição",
+            "Adimplência com a FAPEMA",
+            "Cadastro atualizado no sistema Patronage e currículo Lattes (últimos 6 meses)",
+            "Limite de uma submissão por chamada"
+        ],
+        "criterios_selecao": {
+            "etapa_1": "Análise da Candidatura (Eliminatória - documentação e elegibilidade)",
+            "etapa_2": "Análise do Mérito e Relevância (Eliminatória e Classificatória - Nota mínima 6.0)",
+            "criterios_pontuacao": [
+                {
+                    "item": "Relevância, Abrangência e Temática do Evento",
+                    "peso": 3
+                },
+                {
+                    "item": "Relevância do trabalho para o desenvolvimento de CT&I do Maranhão",
+                    "peso": 4
+                },
+                {
+                    "item": "Adequação Orçamentária",
+                    "peso": 3
+                }
+            ]
+        },
+        "formatacao_proposta": {
+            "limite_paginas": 6,
+            "fonte": "Times New Roman, tamanho 12",
+            "espacamento": "1.5",
+            "idioma": "Português"
+        },
+        "prestacao_de_contas": {
+            "prazo": "Até 30 dias após o término da vigência",
+            "documentos_necessarios": [
+                "Relatório Técnico",
+                "Fotografias (até 5 imagens)",
+                "Comprovantes de publicações/Anais",
+                "Execução Financeira (notas fiscais e comprovantes bancários eletrônicos)"
+            ]
+        }
+    },
+    "edital7": {
+        "numero": "21/2025",
+        "titulo": "Apoio à Projeto de Pesquisa - Universal",
+        "instituicao": "FAPEMA / SECTI Maranhão",
+        "objetivo": "Apoiar projetos de pesquisa científica, tecnológica e de inovação nas diversas áreas do conhecimento, desenvolvidos em Instituições de Ensino Superior e/ou pesquisa no Maranhão.",
+        "recursos_totais": 10000000.0,
+        "vigencia_projeto": "Até 24 meses"
+    },
+    "edital8": {
+        "numero": "01/2026",
+        "instituicao": "FAPEMA / SECTI / Governo do Estado do Maranhão",
+        "titulo": "Apoio à Realização de Eventos Científicos, Tecnológicos e/ou de Inovação",
+        "objetivo": "Apoiar financeiramente a realização de eventos científicos, tecnológicos e/ou de inovação no Maranhão (congressos, seminários, simpósios, etc.), visando a popularização da ciência e alinhamento com o Plano Estratégico Maranhão 2050.",
+        "recursos_financeiros": {
+            "valor_total": 500000.0,
+            "reserva_interior": "Mínimo de 20%",
+            "limites_por_proposta": {
+                "internacional": {
+                    "virtual": 20000.0,
+                    "presencial": 30000.0
+                },
+                "nacional": {
+                    "virtual": 15000.0,
+                    "presencial": 20000.0
+                },
+                "estadual": {
+                    "virtual": 6000.0,
+                    "presencial": 8000.0
+                },
+                "local": {
+                    "virtual": 3000.0,
+                    "presencial": 4000.0
+                }
+            }
+        },
+        "publico_alvo": "Pesquisadores vinculados a Instituições de Ensino (Médio, Técnico, Tecnológico, Superior) ou Pesquisa, públicas ou privadas, sediadas no Maranhão.",
+        "requisitos_proponente": {
+            "gerais": [
+                "Vínculo empregatício efetivo em instituição sediada no Maranhão",
+                "Ser o coordenador geral do evento e membro da comissão organizadora",
+                "Cadastro atualizado no Patronage (FAPEMA) e Lattes (CNPq)",
+                "Estar adimplente com a FAPEMA",
+                "Não estar afastado das atividades institucionais"
+            ],
+            "titulacao_por_abrangencia": {
+                "internacional": "Doutorado",
+                "nacional": "Doutorado",
+                "estadual": "Mestrado",
+                "local": "Graduação (com vínculo em Instituição de Ensino Médio/Técnico pública)"
+            }
+        },
+        "equipe_executora": {
+            "minimo_integrantes": 3,
+            "exigencias": "Incluir um vice-coordenador com titulação compatível; anuência eletrônica de todos os membros no sistema Patronage."
+        },
+        "itens_financiaveis": [
+            "Serviços de Terceiros (Design gráfico, TI, intérprete, tradução, editoração de anais)",
+            "Locação de equipamentos audiovisuais e informática",
+            "Passagens (aéreas, marítimas, terrestres) exclusivas para palestrantes",
+            "Diárias (máximo de 10 dias/mês por pesquisador ou palestrante)",
+            "Seguro viagem individual (obrigatório para palestrantes estrangeiros)",
+            "Locação de tendas, palcos, biombos e mesas (apenas presencial)"
+        ],
+        "itens_nao_financiaveis": [
+            "Material gráfico de divulgação (banners, pastas, certificados, crachás)",
+            "Bens de capital (equipamentos permanentes)",
+            "Bolsas de qualquer modalidade",
+            "Ornamentação, coquetel, jantares e shows",
+            "Obras civis e mobiliários",
+            "Taxas de administração",
+            "Brindes"
+        ],
+        "etapas_selecao": [
+            {
+                "nome": "Etapa I - Análise da Candidatura",
+                "carater": "Eliminatório",
+                "descricao": "Verificação de requisitos formais e documentação"
+            },
+            {
+                "nome": "Etapa II - Análise do Mérito e Relevância",
+                "carater": "Eliminatório e Classificatório",
+                "pontuacao_minima": 6.0
+            },
+            {
+                "nome": "Avaliação do Comitê Gestor",
+                "carater": "Deliberativo",
+                "descricao": "Análise orçamentária final"
+            }
+        ],
+        "criterios_avaliacao_merito": {
+            "justificativa_relevancia": "Peso 2",
+            "contribuicao_ciencia_maranhao_2050": "Peso 2",
+            "vinculo_pos_graduacao": "Peso 2",
+            "adequacao_orcamentaria": "Peso 2",
+            "historico_do_evento": "Peso 1",
+            "valor_inscricao_estudantes": "Peso 1"
+        },
+        "prazos_importantes": {
+            "submissao": "Até 12:00h do prazo final (horário de Brasília)",
+            "recurso": "02 dias úteis após divulgação de resultados parciais",
+            "prestacao_contas": "Até 30 dias após o término da vigência"
+        },
+        "periodo_eventos_cobertos": "Julho de 2026 a Junho de 2027"
+    },
+    "edital9": {
+        "numero": "01/2026",
+        "instituicao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão)",
+        "secretaria": "SECTI (Secretaria de Estado da Ciência, Tecnologia e Inovação)",
+        "objetivo": "Apoiar financeiramente a realização de eventos científico, tecnológico e/ou de inovação no estado do Maranhão, visando a popularização e difusão da Ciência, Tecnologia e Inovação.",
+        "abrangencia_eventos": [
+            "Internacional",
+            "Nacional",
+            "Estadual",
+            "Local"
+        ],
+        "formatos_eventos": [
+            "Virtual",
+            "Presencial"
+        ]
+    },
+    "edital10": {
+        "numero": "01/2025",
+        "instituicoes": [
+            "Agência Estadual de Defesa Agropecuária do Maranhão (AGED)",
+            "Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA)"
+        ],
+        "projeto": "Tecnologia e Inovação em Gestão Agropecuária (PTG)",
+        "objetivo": "Fomentar a informatização da agricultura e pecuária maranhense por meio da evolução do Sistema de Gestão Agropecuária do Maranhão (SIGAMA) e capacitação de profissionais de TI.",
+        "recursos_financeiros_totais": "R$ 552.000,00",
+        "vagas": {
+            "total_imediatas": 8,
+            "total_cadastro_reserva": 16,
+            "categorias": [
+                {
+                    "modalidade": "PTG I",
+                    "valor_bolsa": "R$ 3.000,00",
+                    "vagas_imediatas": 5,
+                    "cadastro_reserva": 10,
+                    "requisito": "Profissionais Formados",
+                    "atividades": "Inovação, análise e evolução do SIGAMA, automação, integração e análise de dados."
+                },
+                {
+                    "modalidade": "PTG II",
+                    "valor_bolsa": "R$ 2.500,00",
+                    "vagas_imediatas": 1,
+                    "cadastro_reserva": 2,
+                    "requisito": "Profissionais Formados",
+                    "atividades": "Análise de suporte, cadastro, ferramentas de dados, aprendizado de máquina e atendimento."
+                },
+                {
+                    "modalidade": "PTG III",
+                    "valor_bolsa": "R$ 2.000,00",
+                    "vagas_imediatas": 2,
+                    "cadastro_reserva": 4,
+                    "requisito": "Estudantes em Formação",
+                    "atividades": "Suporte à infraestrutura tecnológica, segurança da informação e recursos de rede."
+                }
+            ]
+        },
+        "publico_alvo": [
+            "Análise de Sistemas",
+            "Engenharia da Computação",
+            "Engenharia de Software",
+            "Ciência da Computação",
+            "Áreas afins"
+        ],
+        "carga_horaria": {
+            "profissionais_formados": "40 horas semanais",
+            "estudantes": "30 horas semanais"
+        },
+        "criterios_elegibilidade": [
+            "Formação compatível com a modalidade",
+            "Disponibilidade de carga horária",
+            "Residência fixa no Maranhão",
+            "Apresentação de documentação comprobatória"
+        ],
+        "processo_seletivo": {
+            "etapas": "Etapa única (pontuação máxima de 100 pontos)",
+            "criterios_avaliacao": [
+                {
+                    "item": "Análise de Perfil",
+                    "pontos_maximos": 40
+                },
+                {
+                    "item": "Análise do Currículo",
+                    "pontos_maximos": 20
+                },
+                {
+                    "item": "Análise do Pitch Video",
+                    "pontos_maximos": 40
+                }
+            ]
+        },
+        "inscricoes": {
+            "periodo": "14/11/2025 a 23/11/2025",
+            "plataforma": "https://patronage.fapema.br/",
+            "taxa": "Gratuita"
+        },
+        "cronograma": {
+            "inscricoes": "14/11/2025 a 23/11/2025",
+            "resultado_parcial": "28/11/2025",
+            "prazo_recurso": "29 a 30 de agosto de 2025 (Nota: data divergente no texto original, possivelmente erro material)",
+            "resultado_final": "A partir de 01/12/2025",
+            "inicio_atividades_previsto": "08/12/2025"
+        },
+        "contato_duvidas": "ptg.duvidas@aged.ma.gov.br"
     }
 }
