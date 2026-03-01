@@ -1,413 +1,135 @@
 {
     "edital1": {
-        "orgao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão)",
-        "numero_edital": "04/2026",
-        "programa": "PROGRAMA DE APOIO A AMBIENTES PROMOTORES DE INOVAÇÃO - PROAPI-MA",
-        "objetivo": "Fortalecer o ecossistema estadual de CT&I e ampliar a competitividade através da seleção de propostas para concessão de recursos financeiros não reembolsáveis destinados a ambientes promotores de inovação (incubadoras, aceleradoras, parques tecnológicos, hubs, etc) no Maranhão.",
-        "prazo_execucao_projeto": "Até 12 meses",
-        "vigencia_edital": "Exercício 2026"
+        "instituicao": "O edital é de responsabilidade do Governo do Estado do Maranhão, conduzido pela Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA), que atua de forma vinculada à Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI).",
+        "titulo": "Edital FAPEMA número 04/2026 relativo ao Programa de Apoio a Ambientes Promotores de Inovação denominado PROAPI-MA.",
+        "ementa": "Este edital estabelece as condições para a concessão de apoio financeiro a ambientes que promovem a inovação e o empreendedorismo no estado do Maranhão, contemplando estruturas como incubadoras, aceleradoras, parques tecnológicos, hubs de inovação e makerspaces. A iniciativa faz parte da linha de ação Maranhão Mais Inovação e busca elevar a capacidade inovadora estadual em conformidade com o Plano Estratégico de Longo Prazo Maranhão 2050, atendendo instituições de ensino públicas ou privadas sem fins lucrativos e empresas interessadas em implantar ou consolidar tais ambientes.",
+        "objetivo": "O objetivo central é fortalecer o ecossistema estadual de ciência, tecnologia e inovação através da seleção de propostas para repasse de recursos financeiros não reembolsáveis. Pretende-se ampliar a competitividade regional e elevar a qualidade da gestão desses ambientes, incentivando a adoção de padrões de excelência operacional por meio da certificação no modelo CERNE e da filiação à Associação Nacional de Entidades Promotoras de Empreendimentos Inovadores (ANPROTEC).",
+        "valor1": "O edital dispõe de um recurso global no valor total de R$ 2.000.000,00 oriundos do Tesouro Estadual, alocados na modalidade de subvenção econômica para o exercício de 2026.",
+        "valor2": "O financiamento é dividido em duas categorias denominadas Faixa A para consolidação e Faixa B para implantação, sendo que cada proposta individual em ambas as faixas pode solicitar o valor máximo de até R$ 100.000,00.",
+        "valor3": "A instituição beneficiária deve obrigatoriamente aportar uma contrapartida financeira correspondente a no mínimo 5% do valor total aprovado, valor este que pode ser aplicado em desembolsos financeiros diretos ou em bens e serviços relacionados ao projeto.",
+        "prazo1": "A submissão das propostas deve ser realizada exclusivamente por meio eletrônico na plataforma Patronage até o dia 19 de março de 2026 com encerramento previsto para as 12 horas no horário de Brasília.",
+        "prazo2": "Os projetos aprovados terão um prazo de execução máximo de até 12 meses, cujo início é contabilizado a partir da data de assinatura do Termo de Outorga de Subvenção Econômica.",
+        "prazo3": "O cronograma estabelece que a divulgação do resultado parcial da análise de candidatura ocorrerá a partir de 02 de abril de 2026, enquanto o resultado final das análises de mérito será publicado a partir do dia 20 de maio de 2026."
     },
     "edital2": {
-        "orgao": "FAPEMA",
-        "edital_numero": "04/2026",
-        "programa": "Programa de Apoio a Ambientes Promotores de Inovação - PROAPI-MA",
-        "unidade_orcamentaria": "24202 - FAPEMA",
-        "modalidade": "Subvenção Econômica"
+        "instituicao": "O edital é de responsabilidade do Governo do Estado do Maranhão, por intermédio da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão, entidade vinculada à Secretaria de Estado da Ciência, Tecnologia e Inovação.",
+        "titulo": "Edital FAPEMA número 03/2026 referente ao Programa Deep Tech Catalyst.",
+        "ementa": "Este edital faz parte da linha de ação Mais Inovação e visa apoiar a criação e o financiamento de empresas de base tecnológica conhecidas como Deep Techs no estado do Maranhão. O programa busca transformar o potencial acadêmico em negócios científicos para o desenvolvimento de soluções de alto impacto em áreas como Agricultura Digital, Biotecnologia, Energias Renováveis, Saúde e Tecnologias Sociais.",
+        "objetivo": "O objetivo principal é implementar um programa progressivo de inovação para acelerar a conversão da produção científica em soluções disruptivas, capacitando pesquisadores em metodologias empreendedoras e provendo suporte financeiro para o desenvolvimento de provas de conceito e protótipos que evoluam do nível de maturidade tecnológica três para o seis.",
+        "valor1": "O recurso total disponível para este edital é de quatro milhões e quinhentos e cinquenta mil reais provenientes do Tesouro Estadual, divididos em parcelas para os anos de dois mil e vinte e seis e dois mil e vinte e sete.",
+        "valor2": "Cada projeto de inovação aprovado poderá receber até duzentos mil reais na modalidade de auxílio, além de um valor de até setenta mil reais destinado exclusivamente para o pagamento de bolsas de apoio técnico para a equipe executora.",
+        "valor3": "As bolsas de Apoio Técnico de Inovação variam conforme a titulação do bolsista, sendo quatro mil reais mensais para doutores, três mil reais para mestres e dois mil e duzentos reais para profissionais graduados, com duração máxima de seis meses.",
+        "valor4": "O edital prevê o repasse de até trinta e três mil, trezentos e trinta e três reais por empresa beneficiada para custear exclusivamente os registros de ativos de propriedade intelectual resultantes do projeto de inovação.",
+        "valor5": "As empresas proponentes devem obrigatoriamente apresentar uma contrapartida financeira mínima equivalente a cinco por cento do valor total do projeto, que pode ser aplicada em desembolsos diretos, bens ou serviços relacionados à proposta.",
+        "prazo1": "As propostas devem ser submetidas eletronicamente por meio da plataforma Patronage da FAPEMA até as doze horas do dia dezesseis de abril de dois mil e vinte e seis.",
+        "prazo2": "A vigência do auxílio financeiro para a execução dos projetos é de até vinte e dois meses, contados a partir da data de assinatura do Termo de Outorga pelas partes interessadas.",
+        "prazo3": "O cronograma define que o resultado parcial da análise de mérito será divulgado a partir do dia oito de junho de dois mil e vinte e seis, com o resultado final das análises previsto para dezoito de junho de dois mil e vinte e seis.",
+        "prazo4": "O prazo para interposição de recursos administrativos contra os resultados parciais de cada etapa é de três dias úteis, contados a partir da divulgação das respectivas listas no portal oficial da fundação."
     },
     "edital3": {
-        "orgao": "Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA)",
-        "vinculacao": "Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI)",
-        "numero_edital": "03/2026",
-        "programa": "DEEP TECH CATALYST",
-        "linha_de_acao": "Mais Inovação"
+        "instituicao": "A iniciativa é realizada pelo Governo do Estado do Maranhão por meio da Secretaria de Estado da Ciência, Tecnologia e Inovação (SECTI), com execução técnica e financeira da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA).",
+        "titulo": "Edital FAPEMA nº 02/2026 - Apoio à Participação em Eventos Científicos, Tecnológicos e/ou de Inovação.",
+        "ementa": "Este edital integra a linha de ação intitulada Popularização da Ciência e dispõe sobre a concessão de auxílio financeiro para pesquisadores vinculados a instituições de ensino médio, técnico, superior ou de pesquisa, sejam elas públicas, privadas ou paraestatais, desde que sediadas no estado do Maranhão. O apoio destina-se à participação presencial em eventos de curta duração fora do estado ou do país, abrangendo congressos, seminários, simpósios e competições de cunho técnico-científico, como campeonatos de robótica, visando a divulgação da produção científica maranhense.",
+        "objetivo": "O objetivo principal é oferecer suporte financeiro para que pesquisadores do Maranhão participem de eventos científicos e tecnológicos em território nacional ou internacional para difundir conhecimentos e popularizar a ciência produzida localmente.",
+        "valor1": "O recurso total alocado para o edital é de duzentos mil reais oriundos do Tesouro Estadual, sendo distribuídos em três chamadas distintas: a primeira com limite de sessenta mil reais e as outras duas com limite de setenta mil reais cada.",
+        "valor2": "O limite máximo de financiamento por proposta individual é de dois mil e quinhentos reais para eventos nacionais ou regionais realizados fora do Maranhão e de cinco mil reais para eventos internacionais realizados fora do Brasil.",
+        "valor3": "Fica estabelecida uma reserva mínima de vinte por cento do valor total de cada chamada para contemplar proponentes vinculados a instituições localizadas no interior do estado do Maranhão, respeitando-se a ordem de classificação.",
+        "prazo1": "O cronograma da primeira chamada prevê submissões de vinte e três de fevereiro de dois mil e vinte e seis até o meio-dia de doze de março de dois mil e vinte e seis, para eventos que ocorram entre maio e junho de dois mil e vinte e seis.",
+        "prazo2": "A segunda chamada recebe propostas de dezesseis de março de dois mil e vinte e seis até o meio-dia de nove de abril de dois mil e vinte e seis, contemplando eventos realizados no período de julho a setembro de dois mil e vinte e seis.",
+        "prazo3": "Para a terceira chamada, o período de inscrição inicia em onze de maio de dois mil e vinte e seis e encerra ao meio-dia de quinze de junho de dois mil e vinte e seis, abrangendo eventos agendados entre outubro e dezembro de dois mil e vinte e seis.",
+        "prazo4": "O beneficiário deverá realizar a prestação de contas técnica e financeira por meio da plataforma Patronage em um prazo máximo de trinta dias após o encerramento da vigência estabelecida no Termo de Outorga."
     },
     "edital4": {
-        "edital": "03/2026",
-        "programa": "PROGRAMA DEEP TECH CATALYST",
-        "instituicao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão)",
-        "vinculacao": "SECTI (Secretaria de Estado da Ciência, Tecnologia e Inovação)",
-        "estado": "Maranhão"
+        "instituicao": "O Governo do Estado do Maranhão e a Secretaria de Estado da Ciência, Tecnologia e Inovação, por intermédio da Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão, atuam como os órgãos responsáveis pela viabilização e execução deste edital.",
+        "titulo": "Edital FAPEMA número zero um de dois mil e vinte e seis relativo ao Apoio à Realização de Eventos Científicos, Tecnológicos e ou de Inovação.",
+        "ementa": "Este edital estabelece as diretrizes para a concessão de auxílio financeiro destinado à organização de eventos de cunho científico e tecnológico no estado do Maranhão, abrangendo modalidades que vão desde o nível local até o internacional, com foco na popularização da ciência e no desenvolvimento de soluções para problemas estaduais.",
+        "objetivo": "O objetivo central é apoiar financeiramente a realização de congressos, seminários, simpósios e demais fóruns de discussão científica que promovam a integração entre profissionais, pesquisadores e estudantes, alinhando-se preferencialmente ao Plano Estratégico Maranhão 2050.",
+        "valor1": "O recurso total alocado para esta chamada pública é de quinhentos mil reais, sendo este montante originário do tesouro estadual conforme a programação financeira da fundação.",
+        "valor2": "O teto de financiamento por proposta é definido pela abrangência do evento, alcançando o valor máximo de trinta mil reais para eventos internacionais presenciais e até quatro mil reais para eventos de abrangência local em formato presencial.",
+        "valor3": "Assegura-se uma reserva mínima de vinte por cento do orçamento total para projetos cujos proponentes estejam vinculados a instituições de ensino ou pesquisa sediadas no interior do estado do Maranhão.",
+        "prazo1": "O período elegível para a realização dos eventos contemplados compreende o intervalo que se inicia em julho de dois mil e vinte e seis e se estende até junho de dois mil e vinte e sete.",
+        "prazo2": "As submissões devem ser finalizadas eletronicamente via sistema Patronage impreterivelmente até as doze horas, seguindo o horário oficial de Brasília, da data limite definida no cronograma de execução do edital.",
+        "prazo3": "O coordenador responsável pelo auxílio deve encaminhar a prestação de contas técnica e financeira no prazo de até trinta dias após o encerramento da vigência estabelecida no respectivo Termo de Outorga."
     },
     "edital5": {
-        "numero": "02/2026",
-        "instituicao": "FAPEMA",
-        "titulo": "Apoio à Participação em Eventos Científicos, Tecnológicos e/ou de Inovação",
-        "objetivo": "Apoiar financeiramente a participação de pesquisadores(as) do Maranhão em eventos científicos, tecnológicos e de inovação (incluindo campeonatos de robótica) nacionais e internacionais, visando a popularização e difusão da CT&I maranhense.",
-        "publico_alvo": "Pesquisadores vinculados a instituições de ensino (médio, técnico, superior) ou pesquisa, públicas ou privadas, sediadas no Maranhão.",
-        "recursos_financeiros": {
-            "total_global": 200000.0,
-            "cota_interior": "Mínimo de 20% do valor de cada chamada",
-            "valores_maximos_proposta": {
-                "nacional_regional": 2500.0,
-                "internacional": 5000.0
-            }
-        },
-        "cronograma_chamadas": [
-            {
-                "chamada": "1ª Chamada",
-                "orcamento": 60000.0,
-                "periodo_evento": "05/2026 a 06/2026",
-                "submissao": "23/02/2026 a 12/03/2026",
-                "resultado_final": "A partir de 14/04/2026"
-            },
-            {
-                "chamada": "2ª Chamada",
-                "orcamento": 70000.0,
-                "periodo_evento": "07/2026 a 09/2026",
-                "submissao": "16/03/2026 a 09/04/2026",
-                "resultado_final": "A partir de 08/06/2026"
-            },
-            {
-                "chamada": "3ª Chamada",
-                "orcamento": 70000.0,
-                "periodo_evento": "10/2026 a 12/2026",
-                "submissao": "11/05/2026 a 15/06/2026",
-                "resultado_final": "A partir de 17/08/2026"
-            }
-        ],
-        "itens_financiaveis": [
-            "Passagens (ônibus, marítimas e/ou aéreas)",
-            "Taxa de inscrição no evento",
-            "Seguro viagem individual (obrigatório para exterior)",
-            "Diárias (máximo 10 dias/mês, conforme tabela FAPEMA)"
-        ],
-        "requisitos_elegibilidade_proponente": {
-            "vinculo": "Empregatício/funcional ativo ou matrícula regular em instituição habilitada no Maranhão",
-            "trabalho": "Possuir trabalho aprovado ou estar credenciado para competição",
-            "situacao_fapema": "Estar adimplente com a fundação",
-            "cadastros": "Plataforma Patronage e Lattes atualizados nos últimos 6 meses",
-            "restricoes": "Limite de uma submissão por chamada; auxílio individual e intransferível"
-        },
-        "formato_proposta": {
-            "limite_paginas": 6,
-            "formato_arquivo": "PDF",
-            "itens_obrigatorios": [
-                "Título do evento/trabalho",
-                "Resumo e palavras-chave",
-                "Link do evento",
-                "Dados do proponente/equipe",
-                "Modalidade de apresentação",
-                "Relevância para o Maranhão",
-                "Alinhamento com ODS e Plano Maranhão 2050"
-            ]
-        },
-        "criterios_avaliacao": [
-            {
-                "item": "Relevância, Abrangência e Temática do Evento",
-                "peso": 3
-            },
-            {
-                "item": "Relevância do trabalho para o desenvolvimento técnico-científico do Maranhão",
-                "peso": 4
-            },
-            {
-                "item": "Adequação Orçamentária",
-                "peso": 3
-            }
-        ],
-        "pontuacao_minima_aprovacao": 6.0,
-        "recursos_administrativos": {
-            "prazo": "02 dias úteis após divulgação de resultados parciais",
-            "canal": "Exclusivamente via plataforma Patronage"
-        },
-        "prestacao_contas": {
-            "prazo": "Até 30 dias após o término da vigência",
-            "documentos_necessarios": [
-                "Relatório técnico",
-                "Até 5 fotografias digitais",
-                "Comprovantes fiscais (NF-e, cupom fiscal, invoice)",
-                "Extrato bancário e comprovantes de movimentação eletrônica"
-            ]
-        }
+        "instituicao": "A Chamada é realizada pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) em cooperação com o Ministério da Saúde, especificamente por intermédio da Secretaria de Vigilância em Saúde e Ambiente (SVSA) e da Coordenação-Geral de Desenvolvimento da Epidemiologia em Serviços do Departamento de Ações Estratégicas de Epidemiologia e Vigilância em Saúde e Ambiente (CGDEP/Daevs).",
+        "titulo": "Chamada CNPq/Daevs/SVSA/MS Nº 33/2025 - Pesquisa, Extensão e Formação em Epidemiologia e Vigilância em Saúde",
+        "ementa": "Este edital visa o fomento de projetos que integrem pesquisa, extensão e formação profissional com foco em trabalhadores do Sistema Único de Saúde (SUS). As propostas devem buscar o fortalecimento da epidemiologia aplicada aos serviços de vigilância em saúde e obrigatoriamente contemplar quatro eixos fundamentais: a análise situacional dos serviços e necessidades de formação nos territórios; a implementação de estratégias formativas baseadas no Curso VigiEPI; a avaliação científica dos impactos dessa formação; e o desenvolvimento de planos para a tradução e disseminação do conhecimento científico gerado para a sociedade e gestores.",
+        "objetivo": "O objetivo central é fomentar projetos que contribuam para o desenvolvimento científico e tecnológico do país por meio do suporte aos profissionais do SUS, aprimorando o uso estratégico da epidemiologia na vigilância em saúde para melhorar a capacidade de resposta pública e promover a incorporação de inovações no campo da saúde coletiva.",
+        "valor1": "O montante global destinado para o financiamento das propostas aprovadas é de 11.700.000,00 de reais, oriundos do Ministério da Saúde através de Termo de Execução Descentralizada celebrado com o CNPq.",
+        "valor2": "O valor máximo de financiamento por projeto é definido individualmente por Unidade Federativa com base em critérios populacionais e regionais, variando de 150.000,00 de reais para estados como Acre, Amapá e Roraima, até o limite de 2.000.000,00 de reais para o estado de São Paulo, incluindo um adicional de dez por cento para os estados da Região Norte.",
+        "valor3": "Os recursos podem ser utilizados para despesas de custeio como material de consumo, serviços de terceiros, passagens e diárias, além da concessão de bolsas nas modalidades de Desenvolvimento Tecnológico Industrial, Apoio Técnico em Extensão, Iniciação Tecnológica, Difusão do Conhecimento e Extensão no País.",
+        "prazo1": "O período para submissão das propostas no sistema eletrônico do CNPq encerra-se no dia 31 de março de 2026, sendo que o lançamento oficial do edital ocorre em 30 de dezembro de 2025.",
+        "prazo2": "O cronograma de resultados prevê a divulgação da decisão preliminar do julgamento de mérito técnico-científico em 12 de maio de 2026 e a divulgação do resultado preliminar da fase de relevância social em 30 de junho de 2026.",
+        "prazo3": "Os projetos selecionados terão um prazo máximo de execução estabelecido em 24 meses, e os proponentes terão até 90 dias após a publicação do resultado final para efetuar a assinatura do Termo de Outorga."
     },
     "edital6": {
-        "numero": "02/2026",
-        "instituicao": "FAPEMA - Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão",
-        "titulo": "Apoio à Participação em Eventos Científicos, Tecnológicos e/ou de Inovação",
-        "objetivo": "Apoiar financeiramente a participação de pesquisadores(as) do Maranhão em eventos científicos, tecnológicos e/ou de inovação (presenciais e de curta duração) realizados em território nacional ou internacional.",
-        "publico_alvo": "Pesquisadores vinculados a instituições de ensino (médio, técnico, tecnológico, superior) ou de pesquisa, públicas ou privadas, sediadas no Maranhão.",
-        "recursos_financeiros_totais": 200000.0,
-        "valor_maximo_por_proposta": {
-            "nacional_ou_regional_fora_do_estado": 2500.0,
-            "internacional": 5000.0
-        },
-        "cotas": "Mínimo de 20% do valor de cada chamada para proponentes de instituições sediadas no interior do Maranhão.",
-        "itens_financiaveis": [
-            "Passagens (ônibus, marítimas e/ou aéreas)",
-            "Taxa de inscrição no evento",
-            "Seguro viagem individual (obrigatório para eventos no exterior)",
-            "Diárias (hospedagem e alimentação, limite de 10 dias/mês)"
-        ],
-        "cronograma_chamadas": [
-            {
-                "chamada": "1ª Chamada",
-                "orcamento": 60000.0,
-                "periodo_do_evento": "05/2026 a 06/2026",
-                "periodo_submissao": "23/02/2026 a 12/03/2026",
-                "resultado_final": "A partir de 14/04/2026"
-            },
-            {
-                "chamada": "2ª Chamada",
-                "orcamento": 70000.0,
-                "periodo_do_evento": "07/2026 a 09/2026",
-                "periodo_submissao": "16/03/2026 a 09/04/2026",
-                "resultado_final": "A partir de 08/06/2026"
-            },
-            {
-                "chamada": "3ª Chamada",
-                "orcamento": 70000.0,
-                "periodo_do_evento": "10/2026 a 12/2026",
-                "periodo_submissao": "11/05/2026 a 15/06/2026",
-                "resultado_final": "A partir de 17/08/2026"
-            }
-        ],
-        "requisitos_proponente": [
-            "Vínculo empregatício/funcional ativo ou matrícula regular em instituição habilitada no Maranhão",
-            "Não estar aposentado ou em licença/afastamento impeditivo",
-            "Possuir trabalho aprovado para apresentação ou credenciamento para competição",
-            "Adimplência com a FAPEMA",
-            "Cadastro atualizado no sistema Patronage e currículo Lattes (últimos 6 meses)",
-            "Limite de uma submissão por chamada"
-        ],
-        "criterios_selecao": {
-            "etapa_1": "Análise da Candidatura (Eliminatória - documentação e elegibilidade)",
-            "etapa_2": "Análise do Mérito e Relevância (Eliminatória e Classificatória - Nota mínima 6.0)",
-            "criterios_pontuacao": [
-                {
-                    "item": "Relevância, Abrangência e Temática do Evento",
-                    "peso": 3
-                },
-                {
-                    "item": "Relevância do trabalho para o desenvolvimento de CT&I do Maranhão",
-                    "peso": 4
-                },
-                {
-                    "item": "Adequação Orçamentária",
-                    "peso": 3
-                }
-            ]
-        },
-        "formatacao_proposta": {
-            "limite_paginas": 6,
-            "fonte": "Times New Roman, tamanho 12",
-            "espacamento": "1.5",
-            "idioma": "Português"
-        },
-        "prestacao_de_contas": {
-            "prazo": "Até 30 dias após o término da vigência",
-            "documentos_necessarios": [
-                "Relatório Técnico",
-                "Fotografias (até 5 imagens)",
-                "Comprovantes de publicações/Anais",
-                "Execução Financeira (notas fiscais e comprovantes bancários eletrônicos)"
-            ]
-        }
+        "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) em colaboração com o Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte (MEMP).",
+        "titulo": "Chamada CNPq /MCTI /MEMP Nº 5/2026 - Programa de Iniciação ao Empreendedorismo (PIEMP).",
+        "ementa": "Chamada pública destinada a Instituições Científicas, Tecnológicas e de Inovação (ICTs) e Instituições de Ensino Superior (IES) para o fomento de projetos de empreendedorismo inovador. O programa foca em estudantes de graduação organizados em equipes para o desenvolvimento de modelos de negócio a partir de pesquisas científicas, utilizando bolsas de Iniciação Tecnológica e Industrial (ITI) como incentivo.",
+        "objetivo": "Promover a cultura empreendedora no ambiente acadêmico e estimular a transformação de pesquisas científicas em soluções inovadoras com potencial de mercado, impacto social ou sustentável, por meio da liderança estudantil e cooperação institucional.",
+        "valor1": "Recurso global de quatrocentos e vinte mil reais oriundos do orçamento do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte para o financiamento das propostas aprovadas.",
+        "valor2": "Reserva obrigatória de no mínimo trinta por cento do montante total para projetos cujas Instituições Executoras estejam sediadas nas regiões Norte, Nordeste ou Centro-Oeste.",
+        "valor3": "Concessão de no mínimo cinco e no máximo dez bolsas de Iniciação Tecnológica e Industrial por instituição executora, com valor individual de setecentos reais mensais durante o período de vigência.",
+        "prazo1": "O período para submissão eletrônica das propostas via Plataforma Carlos Chagas inicia em vinte e cinco de fevereiro de dois mil e vinte e seis e encerra em treze de abril de dois mil e vinte e seis às vinte e três horas e cinquenta e nove minutos.",
+        "prazo2": "O cronograma define o período de julgamento para abril de dois mil e vinte e seis, com a divulgação dos resultados preliminares e finais prevista para o mês de maio de dois mil e vinte e seis.",
+        "prazo3": "A implementação das bolsas de iniciação tecnológica deve ocorrer em junho de dois mil e vinte e seis, com duração de seis meses e término obrigatoriamente fixado até dezembro de dois mil e vinte e seis.",
+        "prazo4": "O prazo para assinatura do Termo de Outorga é de até noventa dias após a publicação do extrato da decisão final de julgamento no Diário Oficial da União.",
+        "prazo5": "O período total estipulado para a execução dos projetos institucionais aprovados é de oito meses a partir da contratação.",
+        "prazo6": "Eventuais impugnações aos termos do edital devem ser apresentadas em até dez dias corridos após o lançamento oficial da chamada."
     },
     "edital7": {
-        "numero": "21/2025",
-        "titulo": "Apoio à Projeto de Pesquisa - Universal",
-        "instituicao": "FAPEMA / SECTI Maranhão",
-        "objetivo": "Apoiar projetos de pesquisa científica, tecnológica e de inovação nas diversas áreas do conhecimento, desenvolvidos em Instituições de Ensino Superior e/ou pesquisa no Maranhão.",
-        "recursos_totais": 10000000.0,
-        "vigencia_projeto": "Até 24 meses"
+        "instituicao": "O Conselho Nacional de Desenvolvimento Científico e Tecnológico, em conjunto com o Ministério da Ciência, Tecnologia e Inovação, é o órgão responsável pela execução desta chamada pública, que utiliza recursos financeiros provenientes do Fundo Nacional de Desenvolvimento Científico e Tecnológico.",
+        "titulo": "Chamada Pública MCTI/CNPq Número 02 de 2026 referente ao Programa de Cooperação Latino-Americana e Caribenha em Ciência, Tecnologia e Inovação denominado PROSUL Pepe Mujica.",
+        "ementa": "O edital apoia projetos de pesquisa colaborativa voltados ao fortalecimento da cooperação científica e tecnológica entre o Brasil e países da América Latina e Caribe. São contemplados seis eixos temáticos: ambiente e sustentabilidade, alimentação e agricultura, energia e mineração, saúde, tecnologia da informação e ciências humanas e sociais. O apoio é dividido em três faixas que atendem desde projetos bilaterais até redes temáticas consolidadas, exigindo-se que o proponente brasileiro possua título de doutor, currículo Lattes atualizado e vínculo com uma Instituição Científica, Tecnológica e de Inovação cadastrada no CNPq.",
+        "objetivo": "A finalidade principal é estabelecer e consolidar redes de pesquisa entre instituições brasileiras e estrangeiras da região, facilitar a mobilidade de pesquisadores, promover o desenvolvimento conjunto de tecnologias estratégicas e compartilhar infraestrutura regional. Além disso, busca-se ampliar a visibilidade internacional da produção científica latino-americana e caribenha e fomentar a popularização da ciência para a sociedade.",
+        "valor1": "O recurso global para o edital é de 50.000.000,00 de reais, sendo 25.000.000,00 de reais destinados ao pagamento de bolsas e 25.000.000,00 de reais para custeio, devendo cada proposta respeitar a proporção de até 50 por cento para cada uma dessas finalidades.",
+        "valor2": "O financiamento individual por projeto varia conforme a categoria de submissão, sendo o teto de 1.500.000,00 de reais para a Faixa A de Redes Temáticas Consolidadas, 600.000,00 de reais para a Faixa B de Redes Emergentes e 400.000,00 de reais para a Faixa C de Projetos Bilaterais.",
+        "valor3": "A chamada estabelece reservas mínimas de recursos, destinando obrigatoriamente 30 por cento do montante total para projetos executados por instituições nas regiões Norte, Nordeste e Centro-Oeste, além de 10 por cento para parcerias vinculadas à Associação de Universidades do Grupo de Montevidéu.",
+        "valor4": "Os itens financiáveis em custeio incluem material de consumo, serviços de terceiros, passagens aéreas e diárias nacionais ou internacionais, enquanto as bolsas abrangem modalidades como Desenvolvimento Tecnológico Industrial, Pós-Doutorado Júnior e Pesquisador Visitante, conforme normas específicas do CNPq.",
+        "prazo1": "A submissão das propostas deve ser realizada exclusivamente via internet pela Plataforma Integrada Carlos Chagas até a data limite de 30 de abril de 2026, encerrando-se o recebimento às 23 horas e 59 minutos do horário de Brasília.",
+        "prazo2": "O cronograma prevê a divulgação dos resultados preliminares em julho de 2026 no Diário Oficial da União, abrindo-se um intervalo de 10 dias corridos para a interposição de recursos administrativos por parte dos proponentes.",
+        "prazo3": "A vigência máxima de execução dos projetos é de até 36 meses para as Faixas A e B e de até 24 meses para a Faixa C, existindo a possibilidade de prorrogação excepcional de prazo por mais 12 meses sem acréscimo de recursos.",
+        "prazo4": "O direito de impugnação dos termos deste edital por qualquer cidadão decairá caso não seja exercido até o dia 05 de março de 2026, devendo a solicitação ser enviada formalmente à presidência do órgão."
     },
     "edital8": {
-        "numero": "01/2026",
-        "instituicao": "FAPEMA / SECTI / Governo do Estado do Maranhão",
-        "titulo": "Apoio à Realização de Eventos Científicos, Tecnológicos e/ou de Inovação",
-        "objetivo": "Apoiar financeiramente a realização de eventos científicos, tecnológicos e/ou de inovação no Maranhão (congressos, seminários, simpósios, etc.), visando a popularização da ciência e alinhamento com o Plano Estratégico Maranhão 2050.",
-        "recursos_financeiros": {
-            "valor_total": 500000.0,
-            "reserva_interior": "Mínimo de 20%",
-            "limites_por_proposta": {
-                "internacional": {
-                    "virtual": 20000.0,
-                    "presencial": 30000.0
-                },
-                "nacional": {
-                    "virtual": 15000.0,
-                    "presencial": 20000.0
-                },
-                "estadual": {
-                    "virtual": 6000.0,
-                    "presencial": 8000.0
-                },
-                "local": {
-                    "virtual": 3000.0,
-                    "presencial": 4000.0
-                }
-            }
-        },
-        "publico_alvo": "Pesquisadores vinculados a Instituições de Ensino (Médio, Técnico, Tecnológico, Superior) ou Pesquisa, públicas ou privadas, sediadas no Maranhão.",
-        "requisitos_proponente": {
-            "gerais": [
-                "Vínculo empregatício efetivo em instituição sediada no Maranhão",
-                "Ser o coordenador geral do evento e membro da comissão organizadora",
-                "Cadastro atualizado no Patronage (FAPEMA) e Lattes (CNPq)",
-                "Estar adimplente com a FAPEMA",
-                "Não estar afastado das atividades institucionais"
-            ],
-            "titulacao_por_abrangencia": {
-                "internacional": "Doutorado",
-                "nacional": "Doutorado",
-                "estadual": "Mestrado",
-                "local": "Graduação (com vínculo em Instituição de Ensino Médio/Técnico pública)"
-            }
-        },
-        "equipe_executora": {
-            "minimo_integrantes": 3,
-            "exigencias": "Incluir um vice-coordenador com titulação compatível; anuência eletrônica de todos os membros no sistema Patronage."
-        },
-        "itens_financiaveis": [
-            "Serviços de Terceiros (Design gráfico, TI, intérprete, tradução, editoração de anais)",
-            "Locação de equipamentos audiovisuais e informática",
-            "Passagens (aéreas, marítimas, terrestres) exclusivas para palestrantes",
-            "Diárias (máximo de 10 dias/mês por pesquisador ou palestrante)",
-            "Seguro viagem individual (obrigatório para palestrantes estrangeiros)",
-            "Locação de tendas, palcos, biombos e mesas (apenas presencial)"
-        ],
-        "itens_nao_financiaveis": [
-            "Material gráfico de divulgação (banners, pastas, certificados, crachás)",
-            "Bens de capital (equipamentos permanentes)",
-            "Bolsas de qualquer modalidade",
-            "Ornamentação, coquetel, jantares e shows",
-            "Obras civis e mobiliários",
-            "Taxas de administração",
-            "Brindes"
-        ],
-        "etapas_selecao": [
-            {
-                "nome": "Etapa I - Análise da Candidatura",
-                "carater": "Eliminatório",
-                "descricao": "Verificação de requisitos formais e documentação"
-            },
-            {
-                "nome": "Etapa II - Análise do Mérito e Relevância",
-                "carater": "Eliminatório e Classificatório",
-                "pontuacao_minima": 6.0
-            },
-            {
-                "nome": "Avaliação do Comitê Gestor",
-                "carater": "Deliberativo",
-                "descricao": "Análise orçamentária final"
-            }
-        ],
-        "criterios_avaliacao_merito": {
-            "justificativa_relevancia": "Peso 2",
-            "contribuicao_ciencia_maranhao_2050": "Peso 2",
-            "vinculo_pos_graduacao": "Peso 2",
-            "adequacao_orcamentaria": "Peso 2",
-            "historico_do_evento": "Peso 1",
-            "valor_inscricao_estudantes": "Peso 1"
-        },
-        "prazos_importantes": {
-            "submissao": "Até 12:00h do prazo final (horário de Brasília)",
-            "recurso": "02 dias úteis após divulgação de resultados parciais",
-            "prestacao_contas": "Até 30 dias após o término da vigência"
-        },
-        "periodo_eventos_cobertos": "Julho de 2026 a Junho de 2027"
+        "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), autarquia vinculada ao Ministério da Ciência, Tecnologia e Inovação do Brasil, em parceria internacional com o Conselho de Pesquisa Científica e Tecnológica da Turquia (TÜBİTAK).",
+        "titulo": "Chamada Pública MCTI/CNPq/TÜBİTAK Nº 28/2025",
+        "ementa": "Chamada pública destinada à seleção de até dez projetos conjuntos de pesquisa científica, tecnológica e de inovação realizados entre grupos de pesquisa do Brasil e da Turquia. O edital contempla áreas estratégicas como Meio Ambiente (focando em descarbonização, mudanças climáticas e estudos polares), Alimentos e Agricultura (agricultura verde, proteção de plantas e nutrição animal), Saúde (epidemiologia e diagnósticos), Tecnologias de Informação e Comunicação (semicondutores e inteligência artificial) e diversos campos da Física. O apoio financeiro inclui o pagamento de bolsas e itens de custeio para pesquisadores brasileiros com título de doutor e vínculo institucional no país.",
+        "objetivo": "Selecionar projetos que contribuam significativamente para o desenvolvimento científico e tecnológico de ambos os países por meio da cooperação bilateral, visando agregar valor à investigação estratégica nacional, promover a excelência científica e estabelecer ações de educação e divulgação científica para a sociedade em geral.",
+        "valor1": "Recurso global total de R$ 4.000.000,00 (quatro milhões de reais), dos quais R$ 3.000.000,00 são destinados exclusivamente para bolsas e R$ 1.000.000,00 para itens de custeio.",
+        "valor2": "O teto máximo de financiamento por projeto individual é de R$ 400.000,00 (quatrocentos mil reais), sendo limitado em até R$ 300.000,00 para bolsas e até R$ 100.000,00 para despesas de custeio.",
+        "valor3": "As despesas com itens de custeio, que englobam materiais de consumo, serviços de terceiros e passagens, estão limitadas a no máximo 30% do orçamento total da proposta apresentada.",
+        "prazo1": "Lançamento oficial da chamada em 30 de dezembro de 2025, com o período para impugnação dos termos do edital encerrando-se em 09 de janeiro de 2026.",
+        "prazo2": "O prazo limite para o envio das propostas via internet, através da Plataforma Integrada Carlos Chagas, encerra-se às 23h59 do dia 04 de maio de 2026.",
+        "prazo3": "O período de julgamento técnico e científico das propostas ocorrerá entre maio e outubro de 2026, com a divulgação dos resultados preliminares prevista para ocorrer a partir de outubro de 2026.",
+        "prazo4": "A decisão final do julgamento, após o período de recursos administrativos, será publicada entre os meses de dezembro de 2026 e fevereiro de 2027.",
+        "prazo5": "O prazo máximo de execução das atividades dos projetos aprovados é de 24 meses, existindo a possibilidade de prorrogação por mais 12 meses, desde que devidamente justificada e sem o aporte de novos recursos financeiros.",
+        "prazo6": "Os proponentes contemplados possuem o prazo de até 90 dias, contados da publicação da decisão final no Diário Oficial da União, para a assinatura do Termo de Outorga."
     },
     "edital9": {
-        "numero": "01/2026",
-        "instituicao": "FAPEMA (Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão)",
-        "secretaria": "SECTI (Secretaria de Estado da Ciência, Tecnologia e Inovação)",
-        "objetivo": "Apoiar financeiramente a realização de eventos científico, tecnológico e/ou de inovação no estado do Maranhão, visando a popularização e difusão da Ciência, Tecnologia e Inovação.",
-        "abrangencia_eventos": [
-            "Internacional",
-            "Nacional",
-            "Estadual",
-            "Local"
-        ],
-        "formatos_eventos": [
-            "Virtual",
-            "Presencial"
-        ]
+        "instituicao": "Conselho Nacional de Desenvolvimento Científico e Tecnológico, órgão do Ministério da Ciência, Tecnologia e Inovação, com fomento financeiro proveniente do Ministério da Pesca e Aquicultura.",
+        "titulo": "Chamada Pública CNPq/MPA Número Zero Três de Dois Mil e Vinte e Seis referente ao Programa Jovem Cientista da Pesca Artesanal para Iniciação Científica Júnior.",
+        "ementa": "Esta chamada pública convoca Instituições de Ensino Superior e Instituições Científicas, Tecnológicas e de Inovação, sejam públicas ou privadas sem fins lucrativos, para apresentarem projetos que viabilizem a concessão de bolsas de Iniciação Científica Júnior. O público beneficiário são estudantes do ensino médio de escolas públicas que sejam oriundos de comunidades pesqueiras artesanais, especificamente filhos, netos ou dependentes de pescadores com Registro Geral da Atividade Pesqueira ativo. Os projetos de pesquisa devem contemplar áreas como cadeias produtivas da pesca, saberes tradicionais, justiça climática, bioeconomia, territórios pesqueiros e organização socioeconômica das comunidades.",
+        "objetivo": "O propósito central é apoiar as instituições na execução do Programa Jovem Cientista da Pesca Artesanal por meio da concessão de bolsas de estudo que despertem a vocação científica e o interesse por carreiras tecnológicas entre jovens de comunidades tradicionais. A iniciativa visa fortalecer a disseminação do conhecimento científico básico, integrar estudantes em grupos de pesquisa acadêmicos, valorizar o saber-fazer tradicional e contribuir para a formação de recursos humanos qualificados voltados para a sustentabilidade e desenvolvimento da pesca artesanal brasileira.",
+        "valor1": "O financiamento total do edital prevê a oferta de setecentas bolsas de Iniciação Científica Júnior, custeadas pelo orçamento do Ministério da Pesca e Aquicultura e liberadas conforme disponibilidade financeira do CNPq.",
+        "valor2": "As bolsas de estudo serão concedidas pelo período máximo de doze meses, respeitando a vigência iniciada em maio de dois mil e vinte e seis e encerrando necessariamente em abril de dois mil e vinte e sete.",
+        "valor3": "A remuneração das bolsas observará os valores estipulados na Tabela de Valores de Bolsas e Outros Benefícios no País, seguindo as normativas vigentes do CNPq para a modalidade de Iniciação Científica Júnior.",
+        "prazo1": "A data limite para a submissão das propostas institucionais por meio da Plataforma Integrada Carlos Chagas é o dia dezessete de março de dois mil e vinte e seis, até as vinte e três horas e cinquenta e nove minutos no horário de Brasília.",
+        "prazo2": "O período para solicitação de impugnação dos termos deste edital é de dez dias corridos contados a partir da data de lançamento da chamada, que ocorreu em dez de fevereiro de dois mil e vinte e seis.",
+        "prazo3": "O cronograma estabelece que o julgamento, a divulgação dos resultados preliminares, o período de recursos administrativos e o resultado final ocorrerão ao longo do mês de abril de dois mil e vinte e seis, com o início da implementação das bolsas programado para maio de dois mil e vinte e seis."
     },
     "edital10": {
-        "numero": "01/2025",
-        "instituicoes": [
-            "Agência Estadual de Defesa Agropecuária do Maranhão (AGED)",
-            "Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão (FAPEMA)"
-        ],
-        "projeto": "Tecnologia e Inovação em Gestão Agropecuária (PTG)",
-        "objetivo": "Fomentar a informatização da agricultura e pecuária maranhense por meio da evolução do Sistema de Gestão Agropecuária do Maranhão (SIGAMA) e capacitação de profissionais de TI.",
-        "recursos_financeiros_totais": "R$ 552.000,00",
-        "vagas": {
-            "total_imediatas": 8,
-            "total_cadastro_reserva": 16,
-            "categorias": [
-                {
-                    "modalidade": "PTG I",
-                    "valor_bolsa": "R$ 3.000,00",
-                    "vagas_imediatas": 5,
-                    "cadastro_reserva": 10,
-                    "requisito": "Profissionais Formados",
-                    "atividades": "Inovação, análise e evolução do SIGAMA, automação, integração e análise de dados."
-                },
-                {
-                    "modalidade": "PTG II",
-                    "valor_bolsa": "R$ 2.500,00",
-                    "vagas_imediatas": 1,
-                    "cadastro_reserva": 2,
-                    "requisito": "Profissionais Formados",
-                    "atividades": "Análise de suporte, cadastro, ferramentas de dados, aprendizado de máquina e atendimento."
-                },
-                {
-                    "modalidade": "PTG III",
-                    "valor_bolsa": "R$ 2.000,00",
-                    "vagas_imediatas": 2,
-                    "cadastro_reserva": 4,
-                    "requisito": "Estudantes em Formação",
-                    "atividades": "Suporte à infraestrutura tecnológica, segurança da informação e recursos de rede."
-                }
-            ]
-        },
-        "publico_alvo": [
-            "Análise de Sistemas",
-            "Engenharia da Computação",
-            "Engenharia de Software",
-            "Ciência da Computação",
-            "Áreas afins"
-        ],
-        "carga_horaria": {
-            "profissionais_formados": "40 horas semanais",
-            "estudantes": "30 horas semanais"
-        },
-        "criterios_elegibilidade": [
-            "Formação compatível com a modalidade",
-            "Disponibilidade de carga horária",
-            "Residência fixa no Maranhão",
-            "Apresentação de documentação comprobatória"
-        ],
-        "processo_seletivo": {
-            "etapas": "Etapa única (pontuação máxima de 100 pontos)",
-            "criterios_avaliacao": [
-                {
-                    "item": "Análise de Perfil",
-                    "pontos_maximos": 40
-                },
-                {
-                    "item": "Análise do Currículo",
-                    "pontos_maximos": 20
-                },
-                {
-                    "item": "Análise do Pitch Video",
-                    "pontos_maximos": 40
-                }
-            ]
-        },
-        "inscricoes": {
-            "periodo": "14/11/2025 a 23/11/2025",
-            "plataforma": "https://patronage.fapema.br/",
-            "taxa": "Gratuita"
-        },
-        "cronograma": {
-            "inscricoes": "14/11/2025 a 23/11/2025",
-            "resultado_parcial": "28/11/2025",
-            "prazo_recurso": "29 a 30 de agosto de 2025 (Nota: data divergente no texto original, possivelmente erro material)",
-            "resultado_final": "A partir de 01/12/2025",
-            "inicio_atividades_previsto": "08/12/2025"
-        },
-        "contato_duvidas": "ptg.duvidas@aged.ma.gov.br"
+        "instituicao": "O Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), em conjunto com a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e o Instituto de Pesquisa para o Desenvolvimento (IRD) da França, atuam como os órgãos responsáveis pela viabilização e financiamento desta chamada pública binacional.",
+        "titulo": "Chamada Pública CNPq/CAPES/IRD Nº 27/2025 - Programa de apoio ao Centro Franco-Brasileiro de Biodiversidade Amazônica.",
+        "ementa": "Este edital visa a seleção de até cinco projetos de pesquisa conjuntos entre grupos brasileiros e franceses focados no desenvolvimento científico, tecnológico e de inovação. As áreas contempladas envolvem o monitoramento e conservação da biodiversidade amazônica, o papel de povos indígenas e comunidades locais, observação da cobertura florestal, saúde humana sob a ótica One Health e bioeconomia inclusiva. O público-alvo são pesquisadores doutores vinculados a instituições de ciência e tecnologia situadas obrigatoriamente nos estados do Amapá, Amazonas, Pará ou Roraima.",
+        "objetivo": "O objetivo principal é selecionar propostas que contribuam para a excelência científica e cooperação bilateral em áreas estratégicas para Brasil e França, promovendo o impacto da ciência na sociedade e incentivando ações de divulgação científica para públicos não especializados, como escolas e centros de ciência.",
+        "valor1": "O financiamento global da chamada totaliza até um milhão, quatrocentos e sete mil, quatrocentos e doze reais e cinquenta centavos em bolsas concedidas pela CAPES e o mesmo valor de um milhão, quatrocentos e sete mil, quatrocentos e doze reais e cinquenta centavos destinados a itens de custeio pelo CNPq, além de um aporte de quatrocentos mil euros pelo IRD para despesas de custeio das equipes francesas.",
+        "valor2": "Cada projeto individual aprovado poderá solicitar o teto máximo de quatrocentos mil reais para a modalidade de bolsas da CAPES, trezentos mil reais para despesas de custeio financiadas pelo CNPq e oitenta mil euros para despesas de custeio cobertas pelo IRD.",
+        "valor3": "As bolsas da CAPES incluem as modalidades de Doutorado-sanduíche com mensalidade de mil e trezentos euros, e Pós-Doutorado ou Professor Visitante no Exterior Júnior com mensalidade de dois mil e cem euros, acrescidos de auxílios para instalação, seguro-saúde e deslocamento conforme a regulamentação vigente.",
+        "prazo1": "A data limite para a submissão das propostas no sistema eletrônico da Plataforma Integrada Carlos Chagas é o dia 20 de fevereiro de 2026, até às 23h59 no horário de Brasília, após o lançamento oficial ocorrido em 28 de outubro de 2025.",
+        "prazo2": "O cronograma define que o período de julgamento técnico ocorrerá entre março e junho de 2026, com a divulgação do resultado preliminar prevista para julho de 2026 e a publicação da decisão final após análise de recursos em agosto de 2026.",
+        "prazo3": "O tempo máximo estabelecido para a execução das atividades dos projetos aprovados é de trinta e seis meses, contados a partir da formalização do Termo de Outorga, podendo ser prorrogado excepcionalmente mediante justificativa aceita pelo CNPq.",
+        "prazo4": "O prazo para apresentação de impugnação aos termos do edital encerra-se em 7 de novembro de 2025, e o período para interposição de recursos administrativos contra o resultado preliminar é de dez dias corridos após sua publicação oficial."
     }
 }
